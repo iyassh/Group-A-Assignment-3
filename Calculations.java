@@ -27,11 +27,11 @@ public class Calculations {
 		resDIV = inputNum1 / inputNum2;
 		resREM = inputNum1 % inputNum2;
 		
-		System.out.println(inputNum1 +" + "+inputNum2+" = "+ resADD);
-		System.out.println(inputNum1 +" - "+inputNum2+" = "+ resSUB);
-		System.out.println(inputNum1 +" * "+inputNum2+" = "+ resMUL);
-		System.out.println(inputNum1 +" / "+inputNum2+" = "+ resDIV);
-		System.out.println(inputNum1 +" % "+inputNum2+" = "+ resREM);
+		System.out.println("\t"+inputNum1 +" + "+inputNum2+" = "+ resADD);
+		System.out.println("\t"+inputNum1 +" - "+inputNum2+" = "+ resSUB);
+		System.out.println("\t"+inputNum1 +" * "+inputNum2+" = "+ resMUL);
+		System.out.println("\t"+inputNum1 +" / "+inputNum2+" = "+ resDIV);
+		System.out.println("\t"+inputNum1 +" % "+inputNum2+" = "+ resREM);
 		
 	}
 
